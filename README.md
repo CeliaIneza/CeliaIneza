@@ -12,5 +12,5 @@ I build production-focused web applications and enjoy working in fast-paced envi
 
  Email: munyanezacelia3@gmail.com
 
- Resume: 
+ Resume: https://docs.google.com/document/d/1jsGSCSAfsEdTO_iyOjHZVXxMQ4PMGGNBHjL1HQOjRPs/edit?usp=sharing
 
