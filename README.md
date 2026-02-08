@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Celia 👋
 
-<!--
-**CeliaIneza/CeliaIneza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | React • Node.js • Python • Spring Boot • PostgreSQL
 
-Here are some ideas to get you started:
+I build production-focused web applications and enjoy working in fast-paced environments where ownership and impact matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I Work With
+- Frontend: React, React Native
+- Backend: Node.js, Spring Boot, Django, PHPLaravel
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tools: Docker, Git
+
+ Email: munyanezacelia3@gmail.com
+
+ Resume: 
+
